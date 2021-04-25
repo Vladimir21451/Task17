@@ -1,0 +1,38 @@
+body{
+    width: 90%;
+    background-color: lightcyan;
+}
+table{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid grey;
+    background-color: white;
+    
+}
+td{
+    border: 1px solid grey;
+    height: 30px; 
+}
+th{
+    border: 1px solid grey;
+}
+#select{
+    display:flexbox;
+    width: 70px;
+     text-align: center ;
+}
+.zagol{
+    text-align: center;
+}
+.container{
+    display:inline;
+    width: 150px;
+   padding-left: 40%;
+}
+.frm{
+    display: inline;
+    width: 150px;
+    text-align: center;
+    background-color: rgb(238, 141, 22);
+}
